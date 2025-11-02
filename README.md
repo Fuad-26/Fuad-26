@@ -1,5 +1,8 @@
-                                                                              Hi 👋, I'm Fuad Mammadov
-                                                                                Data Analyst
+<h1 align="center" style="font-size:42px;">Hi 👋, I'm Fuad Mammadov</h1>
+<h2 align="center" style="font-size:28px; font-weight:normal;">Data Analyst</h2>
+
+
+Profile Summary
 
 Computer Science graduate from the University of Łódź, currently pursuing a Master’s in Data Science and Business Analytics. Proficient in Python, SQL, and Excel, with practical experience in data analysis, visualization, and machine learning using libraries such as pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Familiar with TensorFlow, Power BI, and Tableau, and continuously developing expertise in modern data analytics tools.
 
